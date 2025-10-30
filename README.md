@@ -2,3 +2,7 @@
 
 **Exercise. Heart rate limits**
 > Implement application, that calculates heart rate limits for doing sports based on age.
+
+## App image
+
+![App](./images/heartRateLimitsCalc_ready.jpg "App")
